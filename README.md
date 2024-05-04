@@ -12,7 +12,7 @@ I am a passionate B.E CS student at SMVITM Udupi, driven by a curiosity for tech
 
 
 ## Tech Stack
-[![My Skills]((https://skillicons.dev/icons?i=html,css,java,django,js,c,python,))](https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,js,django)](https://skillicons.dev)
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
