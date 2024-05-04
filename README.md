@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Kathyayini Kamath! 👋
+# I'm Kathyayini Kamath! 
 
 I am a passionate B.E CS student at SMVITM Udupi, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
