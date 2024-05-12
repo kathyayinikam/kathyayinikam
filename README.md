@@ -22,7 +22,7 @@ I am a passionate B.E CS student at SMVITM Udupi, driven by a curiosity for tech
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](www.linkedin.com/in/kathyayini2003)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/kathyayini2003/)
 )
 
 
